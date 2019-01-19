@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hi Humans!
+
+Madalina here! I want to learn more.
